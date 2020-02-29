@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Arial', Impact, sans-serif;
+}
