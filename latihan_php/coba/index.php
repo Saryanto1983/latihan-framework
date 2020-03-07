@@ -1,0 +1,2 @@
+<?php
+echo "IniFileIndex.php";
