@@ -402,8 +402,8 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                SELAMAT DATANG
-                <small>Silahkan pilih menu </small>
+                Blank page
+                <small>it all starts here</small>
             </h1>
             <ol class="breadcrumb">
                 <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
