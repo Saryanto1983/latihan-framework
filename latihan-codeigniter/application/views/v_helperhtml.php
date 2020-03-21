@@ -3,7 +3,7 @@
     echo ul(array('Ini List 1','Ini List 2'));
 
     $image_properties = array(
-        'src' => 'https://eventkampus.com/data/sekolah/168-1.jpeg',
+        'src' => 'https://sman1bdg.sch.id/wp-content/uploads/2019/04/LOGO-SMANSA.png',
         'alt' => 'STMIK Jabar',
         'width' => '100',
         'height' => '100'
